@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
-    "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
+    "website": "https://github.com/raj141414/TheMovieProviderBot",
+    "repository": "https://github.com/raj141414/TheMovieProviderBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
